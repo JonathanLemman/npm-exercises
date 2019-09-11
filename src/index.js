@@ -1,4 +1,6 @@
-const niceMessage = require('./say-hello');
+import { niceMessage } from "./say-hello";
+
+
 
 
 
