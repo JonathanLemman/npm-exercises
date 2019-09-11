@@ -1,4 +1,2 @@
-export function niceMessage(name) {
-    return `You are are doing great ${name}!`;
-}
+export const niceMessage = name => `You are are doing great ${name}!`;
 
